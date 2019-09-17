@@ -1,0 +1,67 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+name: Software PEC
+url: 'https://github.com/comunereuso/software-pec'
+releaseDate: '2019-09-04'
+developmentStatus: beta
+softwareType: standalone/web
+platforms:
+  - windows
+categories:
+  - email-management
+maintenance:
+  type: internal
+  contacts:
+    - name: Paperon de Paperoni
+      email: paperon@topolino.it
+      phone: '+123456789'
+legal:
+  license: GPL-3.0-or-later
+localisation:
+  localisationReady: true
+  availableLanguages:
+    - it
+it:
+  piattaforme:
+    anpr: true
+    spid: true
+  conforme:
+    lineeGuidaDesign: false
+    misureMinimeSicurezza: true
+description:
+  it:
+    genericName: Software per la gestione della PEC
+    shortDescription: Software per la gestione delle PEC
+    longDescription: |
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+
+      Software per la gestione delle PEC
+    features:
+      - Invio PEC
